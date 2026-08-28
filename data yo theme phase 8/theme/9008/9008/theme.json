@@ -30,17 +30,6 @@
       "borderWidth": 0
     },
     {
-      "category": "Calendar",
-      "typeWidget": "medium",
-      "idWidget": 2040,
-      "idCategory": 2000,
-      "type": "Photo_Monkey",
-      "previewWidget": "widget_medium.webp",
-      "dataWidget": "widget.json",
-      "borderColor": "",
-      "borderWidth": 0
-    },
-    {
       "category": "Clock",
       "typeWidget": "small",
       "idWidget": 3037,
