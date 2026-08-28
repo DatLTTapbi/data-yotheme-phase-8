@@ -1,0 +1,55 @@
+{
+  "id": 9008,
+  "idCategory": 9000,
+  "nameCategory": "Aesthetic",
+  "wallpaper": "wallpaper.webp",
+  "dataIcon": "icon.json",
+  "idCategoryIcon": 2127,
+  "typePreview": 4,
+  "widgets": [
+    {
+      "category": "Calendar",
+      "typeWidget": "medium",
+      "idWidget": 2040,
+      "idCategory": 2000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_medium.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    },
+    {
+      "category": "Photo",
+      "typeWidget": "small",
+      "idWidget": 1143,
+      "idCategory": 1000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_small.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    },
+    {
+      "category": "Calendar",
+      "typeWidget": "medium",
+      "idWidget": 2040,
+      "idCategory": 2000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_medium.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    },
+    {
+      "category": "Clock",
+      "typeWidget": "small",
+      "idWidget": 3037,
+      "idCategory": 3000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_small.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    }
+  ]
+}

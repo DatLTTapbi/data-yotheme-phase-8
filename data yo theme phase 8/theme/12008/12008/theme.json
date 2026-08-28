@@ -1,0 +1,22 @@
+{
+  "id": 12008,
+  "idCategory": 12000,
+  "nameCategory": "Liquid",
+  "wallpaper": "wallpaper.webp",
+  "dataIcon": "icon.json",
+  "idCategoryIcon": 2129,
+  "typePreview": 2,
+  "widgets": [
+    {
+      "category": "Photo",
+      "typeWidget": "medium",
+      "idWidget": 1145,
+      "idCategory": 1000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_medium.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    }
+  ]
+}
