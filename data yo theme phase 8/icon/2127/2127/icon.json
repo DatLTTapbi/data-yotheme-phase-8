@@ -1,360 +1,316 @@
 {
   "listIcon": [
     {
-      "idOld": "icons/icon47/Icon (1).webp",
-      "icon": "Icon (1).webp",
-      "id": 40801,
-      "idCategory": 2051,
-      "packageName": [
-        "com.google.android.youtube"
-      ]
+      "icon": "Icon_1.webp",
+      "id": 124001,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.google.android.youtube"]
     },
     {
-      "idOld": "icons/icon47/Icon (2).webp",
-      "icon": "Icon (2).webp",
-      "id": 40802,
-      "idCategory": 2051,
-      "packageName": [
-        "com.facebook.katana"
-      ]
+      "icon": "Icon_2.webp",
+      "id": 124002,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.facebook.katana"]
     },
     {
-      "idOld": "icons/icon47/Icon (3).webp",
-      "icon": "Icon (3).webp",
-      "id": 40803,
-      "idCategory": 2051,
-      "packageName": [
-        "com.facebook.orca"
-      ]
+      "icon": "Icon_3.webp",
+      "id": 124003,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.facebook.orca"]
     },
     {
-      "idOld": "icons/icon47/Icon (4).webp",
-      "icon": "Icon (4).webp",
-      "id": 40804,
-      "idCategory": 2051,
-      "packageName": [
-        "com.twitter.android"
-      ]
+      "icon": "Icon_4.webp",
+      "id": 124004,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.twitter.android"]
     },
     {
-      "idOld": "icons/icon47/Icon (5).webp",
-      "icon": "Icon (5).webp",
-      "id": 40805,
-      "idCategory": 2051,
-      "packageName": [
-        "setting"
-      ]
+      "icon": "Icon_5.webp",
+      "id": 124005,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["setting"]
     },
     {
-      "idOld": "icons/icon47/Icon (6).webp",
-      "icon": "Icon (6).webp",
-      "id": 40806,
-      "idCategory": 2051,
-      "packageName": [
-        "camera"
-      ]
+      "icon": "Icon_6.webp",
+      "id": 124006,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["camera"]
     },
     {
-      "idOld": "icons/icon47/Icon (7).webp",
-      "icon": "Icon (7).webp",
-      "id": 40807,
-      "idCategory": 2051,
-      "packageName": [
-        "clock"
-      ]
+      "icon": "Icon_7.webp",
+      "id": 124007,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["clock"]
     },
     {
-      "idOld": "icons/icon47/Icon (8).webp",
-      "icon": "Icon (8).webp",
-      "id": 40808,
-      "idCategory": 2051,
-      "packageName": [
-        "com.samsung.android.incallui",
-        "com.android.contacts",
-        "com.android.dialer",
-        "com.google.android.dialer"
-      ]
+      "icon": "Icon_8.webp",
+      "id": 124008,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.samsung.android.incallui", "com.android.contacts", "com.android.dialer", "com.google.android.dialer"]
     },
     {
-      "idOld": "icons/icon47/Icon (9).webp",
-      "icon": "Icon (9).webp",
-      "id": 40809,
-      "idCategory": 2051,
-      "packageName": [
-        "com.ss.android.ugc.trill"
-      ]
+      "icon": "Icon_9.webp",
+      "id": 124009,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.ss.android.ugc.trill"]
     },
     {
-      "idOld": "icons/icon47/Icon (10).webp",
-      "icon": "Icon (10).webp",
-      "id": 40810,
-      "idCategory": 2051,
-      "packageName": [
-        "com.coloros.gallery3d",
-        "com.google.android.apps.photos",
-        "com.google.android.apps.photosgo"
-      ]
+      "icon": "Icon_10.webp",
+      "id": 124010,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.coloros.gallery3d", "com.google.android.apps.photos", "com.google.android.apps.photosgo"]
     },
     {
-      "idOld": "icons/icon47/Icon (11).webp",
-      "icon": "Icon (11).webp",
-      "id": 40811,
-      "idCategory": 2051,
-      "packageName": [
-        "com.android.vending"
-      ]
+      "icon": "Icon_11.webp",
+      "id": 124011,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.android.vending"]
     },
     {
-      "idOld": "icons/icon47/Icon (12).webp",
-      "icon": "Icon (12).webp",
-      "id": 40812,
-      "idCategory": 2051,
-      "packageName": [
-        "com.google.android.googlequicksearchbox"
-      ]
+      "icon": "Icon_12.webp",
+      "id": 124012,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": ["com.google.android.googlequicksearchbox"]
     },
     {
-      "idOld": "icons/icon47/Icon (13).webp",
-      "icon": "Icon (13).webp",
-      "id": 40813,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_13.webp",
+      "id": 124013,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (14).webp",
-      "icon": "Icon (14).webp",
-      "id": 40814,
-      "idCategory": 2051,
-      "packageName": [
-        "com.google.android.youtube"
-      ]
+      "icon": "Icon_14.webp",
+      "id": 124014,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (15).webp",
-      "icon": "Icon (15).webp",
-      "id": 40815,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_15.webp",
+      "id": 124015,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (16).webp",
-      "icon": "Icon (16).webp",
-      "id": 40816,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_16.webp",
+      "id": 124016,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (17).webp",
-      "icon": "Icon (17).webp",
-      "id": 40817,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_17.webp",
+      "id": 124017,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (18).webp",
-      "icon": "Icon (18).webp",
-      "id": 40838,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_18.webp",
+      "id": 124018,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (19).webp",
-      "icon": "Icon (19).webp",
-      "id": 40818,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_19.webp",
+      "id": 124019,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (20).webp",
-      "icon": "Icon (20).webp",
-      "id": 40819,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_20.webp",
+      "id": 124020,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (21).webp",
-      "icon": "Icon (21).webp",
-      "id": 40820,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_21.webp",
+      "id": 124021,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (22).webp",
-      "icon": "Icon (22).webp",
-      "id": 40821,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_22.webp",
+      "id": 124022,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (23).webp",
-      "icon": "Icon (23).webp",
-      "id": 40822,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_23.webp",
+      "id": 124023,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (24).webp",
-      "icon": "Icon (24).webp",
-      "id": 40823,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_24.webp",
+      "id": 124024,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (25).webp",
-      "icon": "Icon (25).webp",
-      "id": 40824,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_25.webp",
+      "id": 124025,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (26).webp",
-      "icon": "Icon (26).webp",
-      "id": 40825,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_26.webp",
+      "id": 124026,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (27).webp",
-      "icon": "Icon (27).webp",
-      "id": 40826,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_27.webp",
+      "id": 124027,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (28).webp",
-      "icon": "Icon (28).webp",
-      "id": 40827,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_28.webp",
+      "id": 124028,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (29).webp",
-      "icon": "Icon (29).webp",
-      "id": 40828,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_29.webp",
+      "id": 124029,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (30).webp",
-      "icon": "Icon (30).webp",
-      "id": 40829,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_30.webp",
+      "id": 124030,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (32).webp",
-      "icon": "Icon (32).webp",
-      "id": 40830,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_31.webp",
+      "id": 124031,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (33).webp",
-      "icon": "Icon (33).webp",
-      "id": 40831,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_32.webp",
+      "id": 124032,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (34).webp",
-      "icon": "Icon (34).webp",
-      "id": 40832,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_33.webp",
+      "id": 124033,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (35).webp",
-      "icon": "Icon (35).webp",
-      "id": 40833,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_34.webp",
+      "id": 124034,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (36).webp",
-      "icon": "Icon (36).webp",
-      "id": 40834,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_35.webp",
+      "id": 124035,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (37).webp",
-      "icon": "Icon (37).webp",
-      "id": 40835,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_36.webp",
+      "id": 124036,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (38).webp",
-      "icon": "Icon (38).webp",
-      "id": 40836,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_37.webp",
+      "id": 124037,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (39).webp",
-      "icon": "Icon (39).webp",
-      "id": 40837,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_38.webp",
+      "id": 124038,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     },
     {
-      "idOld": "icons/icon47/Icon (40).webp",
-      "icon": "Icon (40).webp",
-      "id": 40839,
-      "idCategory": 2051,
-      "packageName": [
-        ""
-      ]
+      "icon": "Icon_39.webp",
+      "id": 124039,
+      "idCategory": 2115,
+      "idOld": "",
+      "keepTransparency": true,
+      "packageName": [""]
     }
   ]
 }
