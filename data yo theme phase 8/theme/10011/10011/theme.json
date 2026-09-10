@@ -1,0 +1,44 @@
+{
+  "id": 10011,
+  "idCategory": 10000,
+  "nameCategory": "Anime",
+  "wallpaper": "wallpaper.webp",
+  "dataIcon": "icon.json",
+  "idCategoryIcon": 2144,
+  "typePreview": 5,
+  "widgets": [
+    {
+      "category": "Clock",
+      "typeWidget": "medium",
+      "idWidget": 3042,
+      "idCategory": 3000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_medium.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    },
+    {
+      "category": "Photo",
+      "typeWidget": "small",
+      "idWidget": 1165,
+      "idCategory": 1000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_small.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    },
+    {
+      "category": "Quote",
+      "typeWidget": "small",
+      "idWidget": 7019,
+      "idCategory": 7000,
+      "type": "Photo_Monkey",
+      "previewWidget": "widget_small.webp",
+      "dataWidget": "widget.json",
+      "borderColor": "",
+      "borderWidth": 0
+    }
+  ]
+}
